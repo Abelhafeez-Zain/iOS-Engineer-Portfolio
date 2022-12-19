@@ -1,17 +1,17 @@
-<a href="https://apps.apple.com/us/developer/pablo-paciello/id834434174" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 
 ## Quran Radios
 [Quran Radios](https://quranrad.io/) Quran Radio is an application that offers live broadcasts for all Quran radio stations in the Islamic world for all famous readers.
-◉More than 700 radio stations
-◉It’s the only application that includes Quran broadcasts from Saudi Arabia, Cairo, Bahrain, Kuwait, Emirates, Qatar, and Palestine
-◉24/7 broadcasts
-◉Live recording option
-◉Ability to listen to recordings without an internet connection
-◉A timer to automatically stop the radio after a specified time
-◉The application runs even if closed.
-◉The ability to share the recordings on social networks
-◉Search option in the list of radio stations
-◉The application is easy to use even for seniors
+- More than 700 radio stations
+- It’s the only application that includes Quran broadcasts from Saudi Arabia, Cairo, Bahrain, Kuwait, Emirates, Qatar, and Palestine
+- 24/7 broadcasts
+- Live recording option
+- Ability to listen to recordings without an internet connection
+- A timer to automatically stop the radio after a specified time
+- The application runs even if closed.
+- The ability to share the recordings on social networks
+- Search option in the list of radio stations
+- The application is easy to use even for seniors
 
 ◉Available languages ◉
 Arabic, English, French, Urdu, Chinese, Russian, Malay, Indonesian
@@ -23,7 +23,7 @@ Arabic, English, French, Urdu, Chinese, Russian, Malay, Indonesian
 </p>
 
 ## CITC
-[Buoywatch](https://www.cst.gov.sa/en/Pages/default.aspx) Communications, Space & Technology Commission’s Mobile Application of e-services provided to the public , Through it can use several services, like:
+[CITC](https://www.cst.gov.sa/en/Pages/default.aspx) Communications, Space & Technology Commission’s Mobile Application of e-services provided to the public , Through it can use several services, like:
 
 Argami : Allows you to view all the mobile numbers and services registered on your ID.
 
@@ -64,7 +64,6 @@ El Ezaby pharmacies mobile application offers:
 - Online Products' availability checking.
 - Scanning the product's bar code from your mobile's camera to make sure it's available.
 
-Download the biggest pharmaceutical mobile application, and enjoy the promo codes and gifts.
 
 ##### 🔨Technologies: Swift, Realm, PhotoEditor SDK, Clean Architecture.
 ##### 🚀Platform: 📱iOS
@@ -74,14 +73,14 @@ Download the biggest pharmaceutical mobile application, and enjoy the promo code
 
 ## Application of the Ministry of Finance for individuals
 [MOF individuals portal](https://apps.apple.com/sa/app/تطبيق-وزارة-المالية-للافراد/id1507806314) The digital services of the Ministry of Finance for citizens and residents, through which they can benefit from the services provided after logging in through the Absher account to benefit from some of the services provided by the Ministry to individuals.
-1- Inquire about assistance
-2- Inquiry about livestock aid
-3- Inquire about natural disaster assistance
-4- Inquire about aid for the displaced
-6- Raising the justifications for disbursing annual returns
-7- Updating the name of the beneficiary of the annual returns
-8- Update the mobile number of the beneficiary of the annual returns
-9- Updating the IBAN number of the annual returns beneficiary
+- Inquire about assistance
+- Inquiry about livestock aid
+- Inquire about natural disaster assistance
+- Inquire about aid for the displaced
+- Raising the justifications for disbursing annual returns
+- Updating the name of the beneficiary of the annual returns
+- Update the mobile number of the beneficiary of the annual returns
+- Updating the IBAN number of the annual returns beneficiary
 
 ##### 🔨Technologies: Objective-C, Swift, PhotoEditor SDK.
 ##### 🚀Platform: 📱iOS, iPad.
@@ -158,4 +157,4 @@ This idea will be easily replicate in many sites in Egypt; especially we have a 
 
 
 
-*Unfortinatlly i can't list all apps that achieved in my last ten years because there are apps that removed from AppStore and many in-house applications.*
+*Unfortunately i can't list all apps that achieved in my last ten years because there are apps that removed from AppStore and many in-house applications.*
