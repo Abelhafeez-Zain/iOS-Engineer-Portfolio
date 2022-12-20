@@ -155,6 +155,19 @@ This idea will be easily replicate in many sites in Egypt; especially we have a 
 <a href="https://apps.apple.com/sa/app/taki-vita/id899122873" target="_blank"><img src="images/Taki/Taki.png" width="900" title="Taki Vita"></a>
 </p>
 
+## Quran Radios on Mac OS
+[Quran Radios on Mac OS](https://apps.apple.com/sa/app/quran-radios/id1252082850?mt=12) Quran Radio is an application that offers live broadcasts for all Quran radio stations in the Islamic world for all famous readers.
+- More than 700 radio stations
+- It’s the only application that includes Quran broadcasts from Saudi Arabia, Cairo, Bahrain, Kuwait, Emirates, Qatar, and Palestine
+- 24/7 broadcasts 
+
+##### 🔨Technologies: Swift, REST API, AV player.
+##### 🚀Platform: Mac OS
+<p align="center">
+<a href="https://apps.apple.com/sa/app/quran-radios/id1252082850?mt=12" target="_blank"><img src="images/quran/quran.png" width="900" title="Quran Radios"></a>
+</p>
+
+
 
 
 *Unfortunately i can't list all apps that achieved in my last ten years because there are apps that removed from AppStore by clients and many in-house applications.*
