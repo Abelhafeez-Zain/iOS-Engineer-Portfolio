@@ -164,7 +164,7 @@ This idea will be easily replicate in many sites in Egypt; especially we have a 
 ##### 🔨Technologies: Swift, REST API, AV player.
 ##### 🚀Platform: Mac OS
 <p align="center">
-<a href="https://apps.apple.com/sa/app/quran-radios/id1252082850?mt=12" target="_blank"><img src="images/quran/quran.png" width="900" title="Quran Radios"></a>
+<a href="https://apps.apple.com/sa/app/quran-radios/id1252082850?mt=12" target="_blank"><img src="images/quranmac/quranmac.png" width="900" title="Quran Radios on Mac OS"></a>
 </p>
 
 
