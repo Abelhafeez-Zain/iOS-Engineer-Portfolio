@@ -16,8 +16,8 @@
 ◉Available languages ◉
 Arabic, English, French, Urdu, Chinese, Russian, Malay, Indonesian
 
-##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Twilio SDK, StreamChat API, Push Notifications, AWS SDK, REST API (GraphQL on an early MVP).
-##### 🚀Platform: 📱iOS, iPad.
+##### 🔨Technologies: Swift, MVP, Alamofire, Core Data, REST API, In-App Purchase, Unit Tests, AV player, Recording, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad,  ⌚️watchOS, TVOS
 <p align="center">
 <a href="https://apps.apple.com/sa/app/quran-radios-اذاعات-القران/id542977531" target="_blank"><img src="images/quran/quran.png" width="900" title="Quran Radios"></a>
 </p>
@@ -37,8 +37,8 @@ Reports: through which you can inform CITC of any disturbing use or emergency br
 
 Providing Telecommunication services request service: A service that allows users to inquire available services at a specific location, with the ability to submit a request of unavailable services.
 
-##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
-##### 🚀Platform: 📱iOS, ⌚️watchOS
+##### 🔨Technologies: Swift, Alamofire, MVP, Maps navigations, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="https://apps.apple.com/sa/app/هيئة-الاتصالات/id955831108?platform=iphone" target="_blank"><img src="images/Citc/Citc.png" width="900" title="CITC"></a>
 </p>
@@ -46,7 +46,7 @@ Providing Telecommunication services request service: A service that allows user
 ## Enjazat | إنجازات
 [Enjazat](https://apps.apple.com/sa/app/enjazat-إنجازات/id1487726158) is an app that provides an initiative to list the achievements of government agencies inside Saudi Arabia.
 
-##### 🔨Technologies: Swift, Realm, Core Bluetooth, Charts, Push Notifications.
+##### 🔨Technologies: Swift, Charts, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="https://apps.apple.com/sa/app/enjazat-إنجازات/id1487726158" target="_blank"><img src="images/Enjazat/Enjazat.png" width="900" title="Enjazat"></a>
@@ -65,7 +65,7 @@ El Ezaby pharmacies mobile application offers:
 - Scanning the product's bar code from your mobile's camera to make sure it's available.
 
 
-##### 🔨Technologies: Swift, Realm, PhotoEditor SDK, Clean Architecture.
+##### 🔨Technologies: Swift, Objective-C, Maps navigation, Push Notifications, Purchasing, Camera Scanning.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="https://apps.apple.com/sa/app/elezaby/id1528993866" target="_blank"><img src="images/Elezaby/Elezaby.png" width="900" title="Elezaby"></a>
@@ -82,8 +82,8 @@ El Ezaby pharmacies mobile application offers:
 - Update the mobile number of the beneficiary of the annual returns
 - Updating the IBAN number of the annual returns beneficiary
 
-##### 🔨Technologies: Objective-C, Swift, PhotoEditor SDK.
-##### 🚀Platform: 📱iOS, iPad.
+##### 🔨Technologies: Flutter, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad, Android.
 <p align="center">
 <a href="https://apps.apple.com/sa/app/تطبيق-وزارة-المالية-للافراد/id1507806314" target="_blank"><img src="images/Individual/Individual.png" width="900" title="MOF individuals portal"></a>
 </p>
@@ -91,8 +91,8 @@ El Ezaby pharmacies mobile application offers:
 ## MOF Public Portal
 [MOF Public Portal](https://apps.apple.com/sa/app/بوابة-وزارة-المالية/id1148971973) In view of the importance of the content that the Ministry of Finance provides on the external electronic portal, and in continuation of the Ministry's permanent work to save the time of the beneficiaries of its services, it has provided some of its contents in the external portal on smart devices, in order to ensure its access to all users from anywhere, and given its constant endeavor To cover all the requirements of users, the idea came to provide some content on smart devices, which enables the wide segment that uses smart devices a lot to access it on their devices directly and easily, and the application can access the information they seek, which makes the features provided in the application available around the clock and Very easily and quickly, this document will describe the requirements for the application of smart devices for the Ministry of Finance.
 
-##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Flutter, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad, Android.
 <p align="center">
 <a href="https://apps.apple.com/sa/app/بوابة-وزارة-المالية/id1148971973" target="_blank"><img src="images/Public/Public.png" width="900" title="Public"></a>
 </p>
@@ -104,8 +104,8 @@ Dedicated to innovation, inspired by consumer insight, and crafted to perfection
 
 Oriental Weavers now presents an interactive E-Commerce App to all its customers, offering different online payment methods, door to door delivery, and wedding list sharing.
 
-##### 🔨Technologies: Swift, AVC Player, iBeacons, Push Notifications.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Swift, Objective-C, AR, Maps navigation, Push Notifications, Purchasing.
+##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="https://apps.apple.com/sa/app/oriental-weavers/id877586084?platform=iphone" target="_blank"><img src="images/oreinatal/oreinatal.png" width="900" title="Oriental Weavers"></a>
 </p>
@@ -118,8 +118,8 @@ The application contains a counter that helps to keep track of the remembrance o
 You can customize the alarm to remind you of a date for morning and evening remembrances.
 The application allows the sharing of dhikr and supplications through social networking sites.
 
-##### 🔨Technologies: Swift, Flow Coordinators.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Swift, AV Player, Widgets, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="https://apps.apple.com/us/app/spenn/id1189735564?ls=1" target="_blank"><img src="images/Azkar/Azkar.png" width="900" title="Azkar & Prayer Time"></a>
 </p>
@@ -127,8 +127,8 @@ The application allows the sharing of dhikr and supplications through social net
 ## ALEF Bookstores
 [ALEF Bookstores](https://www.alef-bookstore-maximmall.com) ALEF’s mission is to create highly knowledgeable, intellectual, and well-read Arab communities throughout the world by developing a clearer understanding of customer needs and by providing customers with a combination of knowledge-propagating media. ALEF aims at creating the biggest online store, providing a professional service that allows customers to go through the books and to buy easily from our online store.
 
-##### 🔨Technologies: Swift, Flow Coordinators, Push Notifications.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Objective-C, Maps, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="https://apps.apple.com/sa/app/alef-bookstores/id870404479" target="_blank"><img src="images/Alef/Alef.png" width="900" title="ALEF Bookstores"></a>
 </p>
@@ -140,7 +140,7 @@ All the user has to do is to download the application at their smart phones and 
 
 This idea will be easily replicate in many sites in Egypt; especially we have a lot of open museums in Egypt like in Luxor and Aswan
 
-##### 🔨Technologies: Swift, Push Notifications.
+##### 🔨Technologies: Objective-C,AR,Rest Api, Push Notifications.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
 <a href="https://apps.apple.com/sa/app/elmoez-street/id948171223" target="_blank"><img src="images/Elmoaz/Elmoaz.png" width="900" title="ElMoez Street"></a>
@@ -149,12 +149,12 @@ This idea will be easily replicate in many sites in Egypt; especially we have a 
 ## Taki Vita
 [Taki Vita](https://apps.apple.com/sa/app/taki-vita/id899122873) TAKI’s Mother CO. was Established in 1960 and Taki Vita Co. under the investment law 1976.with 60% Egyptian shares and 40% British shares. However, today 100% of the shares are Egyptian and it is the largest foam and mattresses manufacturer in Egypt and Middle East, and started car seat manufacturing 1997.
 
-##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Objective-C, Rest Api, Push Notifications, Google Maps.
+##### 🚀Platform: 📱iOS,iPad
 <p align="center">
 <a href="https://apps.apple.com/sa/app/taki-vita/id899122873" target="_blank"><img src="images/Taki/Taki.png" width="900" title="Taki Vita"></a>
 </p>
 
 
 
-*Unfortunately i can't list all apps that achieved in my last ten years because there are apps that removed from AppStore and many in-house applications.*
+*Unfortunately i can't list all apps that achieved in my last ten years because there are apps that removed from AppStore by clients and many in-house applications.*
